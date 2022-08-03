@@ -1,4 +1,6 @@
-# <h1>Projeto_alurinha-Alura</h1>
+# <h1>Projeto_Alurinha</h1>
+
+<h3>Alura</h3>
 
 <h2>Project deployed on: https://scintillating-bienenstitch-02bbcb.netlify.app/</h2>
 
